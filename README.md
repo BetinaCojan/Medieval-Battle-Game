@@ -1,6 +1,6 @@
 # Medieval-Battle-Game
 
-Medieval Battle Game is a 2D platform game made in Unity, using c# programming language. The story of the warriors who want to save the medieval village from the enemies of the cursed and dark forest. There are implementations such as character selection, various weapons, diverse and complex settings, multiple levels, different types of enemies, etc.
+Medieval Battle Game is a 2D platform game made in Unity, using c# programming language. The story of the warriors who want to save the medieval village from the enemies of the cursed and dark forest. There are implementations such as character selection, various weapons, diverse and complex settings, multiple levels, different types of enemies etc.
 
 
 ## Screenshots
